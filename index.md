@@ -30,7 +30,7 @@ My research interests include multimodal large language models and reinforcement
   <div class="timeline-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
     <div class="timeline-date">Feb. 2026</div>
-    <div class="timeline-body">Grateful to receive the CSU-JPG Annual Award.</div>
+    <div class="timeline-body">Grateful to receive the CSU-JPG Lab Annual Award.</div>
   </div>
   <div class="timeline-entry">
     <div class="timeline-marker" aria-hidden="true"></div>

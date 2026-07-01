@@ -2,7 +2,7 @@
 
 <ul class="honor-list">
   <li><span>Outstanding Graduate, Central South University</span><span>Jun. 2026</span></li>
-  <li><span>CSU-JPG Annual Award</span><span>Feb. 2026</span></li>
+  <li><span>CSU-JPG Lab Annual Award</span><span>Feb. 2026</span></li>
   <li><span>Ganglian Logistics Education Fund Scholarship</span><span>Dec. 2025</span></li>
   <li><span>First-Class Scholarship, Central South University</span><span>Dec. 2025</span></li>
   <li><span>Yangguang Outstanding Student Scholarship</span><span>Dec. 2024</span></li>
