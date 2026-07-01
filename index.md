@@ -46,7 +46,7 @@ My research interests include multimodal large language models and reinforcement
 
 {% include_relative _includes/publications.md %}
 
-<h2 class="section-title" id="experience">Experience</h2>
+<h2 class="section-title" id="experience">Experiences</h2>
 
 <div class="simple-timeline experience-timeline">
   <div class="timeline-entry experience-entry">
