@@ -4,7 +4,7 @@ layout: homepage
 
 <h2 class="section-title" id="about-me">About Me</h2>
 
-I am currently a first-year MPhil student at <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>, where I am fortunate to be advised by <a href="https://cartus.github.io/">Prof. Zhijiang Guo</a>.I received my B.Eng. degree in Computer Science and Technology from <a href="https://www.csu.edu.cn/">Central South University</a>, where I was fortunate to be advised by <a href="https://fingerrec.github.io/">Prof. Jinpeng Wang</a> and <a href="https://qhlin.me/">Dr. Kevin Lin</a>.
+I am currently a first-year MPhil student at <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>, where I am fortunate to be advised by <a href="https://cartus.github.io/">Prof. Zhijiang Guo</a>. I received my B.Eng. degree in Computer Science and Technology from <a href="https://www.csu.edu.cn/">Central South University</a>, where I was fortunate to be advised by <a href="https://fingerrec.github.io/">Prof. Jinpeng Wang</a> and <a href="https://qhlin.me/">Dr. Kevin Lin</a>.
 
 My research interests include multimodal large language models, reinforcement learning and recursive self-improvement. My recent work focuses on visual code generation.
 
