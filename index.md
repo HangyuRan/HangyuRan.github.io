@@ -4,18 +4,26 @@ layout: homepage
 
 <h2 class="section-title" id="about-me">About Me</h2>
 
-I recently received my B.Eng. degree in Computer Science and Technology from <a href="https://www.csu.edu.cn/">Central South University</a>. During my undergraduate study, I was fortunate to be advised by <a href="https://fingerrec.github.io/">Prof. Jinpeng Wang</a> and <a href="https://qhlin.me/">Dr. Kevin Lin</a>.
-I will start my MPhil study at <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> in August 2026.
+I am currently a first-year MPhil student at <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>, where I am fortunate to be advised by <a href="https://cartus.github.io/">Prof. Zhijiang Guo</a>.I received my B.Eng. degree in Computer Science and Technology from <a href="https://www.csu.edu.cn/">Central South University</a>, where I was fortunate to be advised by <a href="https://fingerrec.github.io/">Prof. Jinpeng Wang</a> and <a href="https://qhlin.me/">Dr. Kevin Lin</a>.
 
-My research interests include multimodal large language models and reinforcement learning. My recent work focuses on visual code generation.
+My research interests include multimodal large language models, reinforcement learning and recursive self-improvement. My recent work focuses on visual code generation.
 
 <h2 class="section-title" id="news">News</h2>
 
 <div class="simple-timeline news-timeline">
   <div class="timeline-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
-    <div class="timeline-date">May 2026</div>
-    <div class="timeline-body">Two papers were submitted to EMNLP 2026.</div>
+    <div class="timeline-date">Aug. 2026</div>
+    <div class="timeline-body">
+      One paper was accepted by EMNLP 2026 Findings.
+    </div>
+  </div>
+  <div class="timeline-entry">
+    <div class="timeline-marker" aria-hidden="true"></div>
+    <div class="timeline-date">Aug. 2026</div>
+    <div class="timeline-body">
+      Honored to join <a href="https://lark-lab-hkustgz.github.io/">LARK Lab</a>, advised by <a href="https://cartus.github.io/">Prof. Zhijiang Guo</a>.
+    </div>
   </div>
   <div class="timeline-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
@@ -48,6 +56,18 @@ My research interests include multimodal large language models and reinforcement
 
 <h2 class="section-title" id="experience">Experiences</h2>
 
+<div class="timeline-entry experience-entry">
+  <div class="timeline-marker" aria-hidden="true"></div>
+  <div class="experience-side">
+    <div class="experience-date">Aug. 2026 - Present</div>
+  </div>
+  <div class="timeline-body experience-content">
+    <h3><a href="https://lark-lab-hkustgz.github.io/">LARK Lab</a></h3>
+    <div class="experience-role">MPhil Student</div>
+    <p>Fortunate to be advised by <a href="https://cartus.github.io/">Prof. Zhijiang Guo</a>. Research interests include multimodal large language models, reinforcement learning, and recursive self-improvement.</p>
+  </div>
+</div>
+
 <div class="simple-timeline experience-timeline">
   <div class="timeline-entry experience-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
@@ -63,10 +83,11 @@ My research interests include multimodal large language models and reinforcement
       <p>Focus on multimodal generation and reasoning, and participate in visual code generation research.</p>
     </div>
   </div>
+
   <div class="timeline-entry experience-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
     <div class="experience-side">
-      <div class="experience-date">Feb. 2025 - Present</div>
+      <div class="experience-date">Feb. 2025 - Jul. 2026</div>
       <a class="experience-logo" href="https://csu-jpg.github.io/" aria-label="CSU-JPG Lab">
         <img src="./assets/img/csu_jpg_logo.webp" alt="CSU-JPG Lab logo">
       </a>
