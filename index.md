@@ -62,7 +62,7 @@ My research interests include multimodal large language models, reinforcement le
     <div class="timeline-marker" aria-hidden="true"></div>
     <div class="experience-side">
       <div class="experience-date">Aug. 2026 - Present</div>
-      <div class="experience-logo" aria-hidden="true"></div>
+      <a class="experience-logo" href="https://lark-lab-hkustgz.github.io/" aria-label="LARK Lab"><img src="./assets/img/lark_lab_logo.png" alt="LARK Lab logo"></a>
     </div>
     <div class="timeline-body experience-content">
       <h3><a href="https://lark-lab-hkustgz.github.io/">LARK Lab</a></h3>
