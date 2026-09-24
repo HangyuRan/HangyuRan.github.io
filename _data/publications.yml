@@ -8,7 +8,6 @@ main:
     code: https://github.com/ant-research/RULER
     page: https://hangyuran.github.io/RULER/
     image: ./assets/img/ruler_teaser.png
-    others: '<a href="https://huggingface.co/papers/2609.25270" target="_blank" rel="noopener noreferrer">[Daily Paper]</a> &middot; Code coming soon'
   - title: "VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation"
     authors: "Kevin Lin*, Yuhao Zheng*, <strong>Hangyu Ran*</strong>, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang (*Equal contribution)"
     conference_short: CVPRW
