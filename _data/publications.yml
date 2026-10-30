@@ -1,6 +1,6 @@
 main:
   - title: "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement"
-    authors: "Liaoyuan Fan*, Yuhao Zheng*, Dongxing Mao*, <strong>Hangyu Ran*</strong>, Siyuan Hu*, et al. (*Equal contribution)"
+    authors: "Liaoyuan Fan*, Yuhao Zheng*, Dongxing Mao*, <strong>Hangyu Ran*</strong>, Siyuan Hu*, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu (*Equal contribution)"
     conference_short: arXiv
     conference: "arXiv preprint, 2026"
     arxiv: https://arxiv.org/abs/2610.40191
