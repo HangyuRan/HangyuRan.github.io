@@ -1,4 +1,13 @@
 main:
+  - title: "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement"
+    authors: "Liaoyuan Fan*, Yuhao Zheng*, Dongxing Mao*, <strong>Hangyu Ran*</strong>, Siyuan Hu*, et al. (*Equal contribution)"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2026"
+    arxiv: https://arxiv.org/abs/2610.40191
+    pdf: https://arxiv.org/pdf/2610.40191
+    code: https://github.com/agentic-videogen/awesome-agentic-videogen
+    page: https://agentic-videogen.github.io/
+    image: ./assets/img/agentic_videogen_teaser.jpg
   - title: "RULER: Instance-aware Rubric Rewards for SVG Generation"
     authors: "<strong>Hangyu Ran*</strong>, Yuhao Zheng*, Yingying Zhang, Kevin Qinghong Lin, Han Peng (*Equal contribution)"
     conference_short: EMNLP
