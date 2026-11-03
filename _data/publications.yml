@@ -15,7 +15,7 @@ main:
     conference: "EMNLP 2026 Findings"
     arxiv: https://arxiv.org/abs/2609.25270
     pdf: https://arxiv.org/pdf/2609.25270
-    code: https://github.com/ant-research/RULER
+    code: https://github.com/HangyuRan/RULER
     dataset: https://huggingface.co/datasets/hangyuran/RULER
     page: https://hangyuran.github.io/RULER/
     image: ./assets/img/ruler_teaser.png
