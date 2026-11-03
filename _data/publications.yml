@@ -4,6 +4,7 @@ main:
     conference_short: arXiv
     conference: "arXiv preprint, 2026"
     arxiv: https://arxiv.org/abs/2610.40191
+    hf_paper: https://huggingface.co/papers/2610.40191
     pdf: https://arxiv.org/pdf/2610.40191
     code: https://github.com/agentic-videogen/awesome-agentic-videogen
     page: https://agentic-videogen.github.io/
@@ -15,6 +16,7 @@ main:
     arxiv: https://arxiv.org/abs/2609.25270
     pdf: https://arxiv.org/pdf/2609.25270
     code: https://github.com/ant-research/RULER
+    dataset: https://huggingface.co/datasets/hangyuran/RULER
     page: https://hangyuran.github.io/RULER/
     image: ./assets/img/ruler_teaser.png
   - title: "VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation"

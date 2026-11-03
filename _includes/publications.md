@@ -39,6 +39,12 @@
       {% if link.code %}
       <a href="{{ link.code }}" target="_blank">[Code]</a>
       {% endif %}
+      {% if link.hf_paper %}
+      <a href="{{ link.hf_paper }}" target="_blank">[HF Daily Paper]</a>
+      {% endif %}
+      {% if link.dataset %}
+      <a href="{{ link.dataset }}" target="_blank">[Dataset]</a>
+      {% endif %}
       {% if link.demo %}
       <a href="{{ link.demo }}" target="_blank">[Demo]</a>
       {% endif %}
