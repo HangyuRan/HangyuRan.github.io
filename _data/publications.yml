@@ -19,6 +19,7 @@ main:
     dataset: https://huggingface.co/datasets/hangyuran/RULER
     page: https://hangyuran.github.io/RULER/
     image: ./assets/img/ruler_teaser.png
+    notes: "HF Daily Paper #1"
   - title: "VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation"
     authors: "Kevin Lin*, Yuhao Zheng*, <strong>Hangyu Ran*</strong>, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang (*Equal contribution)"
     conference_short: CVPRW
