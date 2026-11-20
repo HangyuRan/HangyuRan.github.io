@@ -74,7 +74,7 @@ My research interests include multimodal large language models, reinforcement le
   <div class="timeline-entry experience-entry">
     <div class="timeline-marker" aria-hidden="true"></div>
     <div class="experience-side">
-      <div class="experience-date">Dec. 2025 - Present</div>
+      <div class="experience-date">Dec. 2025 - Oct. 2026</div>
       <a class="experience-logo" href="https://www.antgroup.com/" aria-label="Ant Group">
         <img src="./assets/img/ant_logo.png" alt="Ant Group logo">
       </a>
